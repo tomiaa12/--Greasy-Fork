@@ -1,0 +1,25 @@
+{
+  "name": "@tomiaa/greasy-fork",
+  "version": "0.0.1",
+  "description": "greasy-fork 脚本",
+  "main": "baidu.js",
+  "scripts": {
+    "log": "conventional-changelog -p angular -i CHANGELOG.md -s -r 0 -n ./changelog.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomiaa12/greasy-fork.git"
+  },
+  "devDependencies": {
+    "conventional-changelog-cli": "^2.2.2"
+  },
+  "keywords": [
+    "greasy-fork"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tomiaa12/greasy-fork/issues"
+  },
+  "homepage": "https://github.com/tomiaa12/greasy-fork#readme"
+}
