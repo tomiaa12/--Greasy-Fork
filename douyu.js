@@ -2,7 +2,7 @@
 // @name         斗鱼纯净版--持续更新中...
 // @namespace    http://tampermonkey.net/
 // @description  斗鱼纯净版
-// @version      0.3.6
+// @version      0.3.7
 // @author       tomiaa
 // @match      *://www.douyu.com/directory/myFollow
 // @match      *://www.douyu.com/*
