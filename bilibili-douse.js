@@ -13,7 +13,7 @@
   const style = document.createElement("style");
   style.innerHTML = `.video-sections-content-list{
     height: auto !important;
-    max-height: 770px !important;
+    max-height: 60vh !important;
   }
   
   .multi-page-v1 .cur-list{
